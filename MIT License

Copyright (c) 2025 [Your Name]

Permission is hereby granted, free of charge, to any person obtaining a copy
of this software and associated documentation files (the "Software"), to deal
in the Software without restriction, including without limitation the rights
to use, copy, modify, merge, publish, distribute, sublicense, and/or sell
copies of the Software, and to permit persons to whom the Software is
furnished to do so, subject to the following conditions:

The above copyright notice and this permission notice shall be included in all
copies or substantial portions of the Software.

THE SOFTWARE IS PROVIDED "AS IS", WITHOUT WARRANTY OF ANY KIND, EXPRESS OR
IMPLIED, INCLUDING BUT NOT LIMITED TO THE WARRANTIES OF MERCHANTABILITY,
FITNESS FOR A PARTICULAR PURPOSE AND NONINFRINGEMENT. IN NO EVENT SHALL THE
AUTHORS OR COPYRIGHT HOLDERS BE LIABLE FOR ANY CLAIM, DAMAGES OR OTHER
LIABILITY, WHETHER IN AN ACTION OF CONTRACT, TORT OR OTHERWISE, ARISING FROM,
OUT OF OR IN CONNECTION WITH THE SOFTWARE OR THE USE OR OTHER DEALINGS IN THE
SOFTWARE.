@@ -1,0 +1,32 @@
+# 🎮 Mines Game Bot
+
+A free bot for automating gameplay in **[Your Game Name]**.  
+This tool was built for fun and educational purposes.  
+
+---
+
+## 🚀 Features
+- ✅ Auto-play Mines game  
+- ✅ Customizable settings (speed, strategy, etc.)  
+- ✅ Works on Windows/Linux/Mac (Python)  
+- ✅ Pre-built `.exe` for Windows users (no Python needed)
+
+---
+
+## 📦 Installation (for Developers)
+
+### Requirements
+- Python 3.10+  
+- pip (Python package manager)
+
+### Setup
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/mines-game-bot.git
+cd mines-game-bot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the bot
+python bot.py
